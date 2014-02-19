@@ -1,0 +1,4 @@
+BaseMakefile
+============
+
+Simple skeleton makefile.
